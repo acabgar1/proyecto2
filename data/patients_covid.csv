@@ -1,0 +1,51 @@
+id;first_name;pais_nacimiento;residencia;sex;age;arrival_date;recovery_date;status;need_ICU;maximum_temperature;daily_medications;daily_medical_examinations
+1;Alonzo;Peru;2 Carioca Hill;m;27;16/03/2020;30/06/2021;1;True;40.5;4;7
+2;Karrah;Indonesia;46563 Chive Place;m;85;28/04/2020;22/09/2021;2;True;41.5;12;12
+3;Spence;Saudi Arabia;29 Delaware Place;m;57;19/03/2020;17/04/2021;0;True;40.5;6;4
+4;Herta;Portugal;450 Anhalt Way;m;32;25/11/2020;04/02/2021;0;False;41.0;11;8
+5;Romeo;Portugal;22 4th Place;f;35;12/08/2020;08/04/2021;1;False;41.5;2;5
+6;Dick;North Korea;0 Service Hill;m;30;27/09/2020;22/03/2021;0;False;40.5;4;6
+7;Amelina;Kazakhstan;81 Bartelt Terrace;m;32;14/07/2020;22/03/2021;1;False;39.5;4;2
+8;Ulysses;Argentina;75669 Hanson Trail;f;50;02/09/2020;09/07/2021;0;True;40.5;7;10
+9;Tracie;Guatemala;03 Schlimgen Drive;m;23;14/12/2020;06/08/2021;1;True;39.5;7;8
+10;Terrie;China;87 Vermont Place;m;36;19/10/2020;21/02/2021;0;False;40.5;3;6
+11;Lalo;Bosnia and Herzegovina;41290 Hudson Way;m;29;14/09/2020;10/01/2021;0;True;39.5;2;10
+12;Clarinda;Argentina;53856 Farmco Lane;f;43;11/06/2020;17/01/2021;0;False;39.0;3;7
+13;Shayne;Egypt;779 Towne Plaza;f;51;18/09/2020;06/09/2021;1;False;40.5;3;4
+14;Eirena;Brazil;467 Saint Paul Alley;f;3;25/10/2020;30/06/2021;1;False;39.0;9;8
+15;Teresa;Philippines;5 Talmadge Terrace;m;46;20/08/2020;10/07/2021;0;False;41.0;2;5
+16;Sammie;Ukraine;82 Magdeline Trail;f;25;16/11/2020;15/05/2021;1;False;41.5;5;3
+17;Tatum;Latvia;1660 Pond Alley;f;36;17/09/2020;25/08/2021;0;False;39.0;8;12
+18;Barde;Australia;1 Schurz Way;m;58;04/05/2020;10/09/2021;0;True;40.0;2;12
+19;Shirline;Peru;70 Fisk Crossing;f;30;07/11/2020;26/03/2021;0;True;39.5;10;4
+20;Farley;Colombia;6 Dapin Center;f;27;23/05/2020;18/05/2021;0;False;40.0;5;11
+21;Robby;Honduras;4 Calypso Point;m;54;29/07/2020;23/03/2021;0;False;41.0;4;5
+22;Far;Indonesia;901 Stoughton Drive;f;33;16/08/2020;30/04/2021;0;False;40.0;9;5
+23;Christian;China;4 5th Avenue;f;30;21/12/2020;10/06/2021;0;True;42.0;8;2
+24;Anne-corinne;Poland;27 5th Court;f;24;14/10/2020;06/04/2021;0;False;40.5;4;5
+25;Kriste;China;6169 Oxford Court;m;40;11/12/2020;21/02/2021;0;True;41.0;2;12
+26;Lacee;Kosovo;619 Dixon Pass;m;65;06/08/2020;27/07/2021;0;True;40.0;8;7
+27;Lib;Cameroon;4124 Stone Corner Pass;f;63;27/03/2020;19/07/2021;0;False;40.0;8;8
+28;Harold;China;7 Towne Circle;m;71;03/10/2020;18/08/2021;0;True;39.0;3;10
+29;Brewster;China;546 Anhalt Terrace;f;20;13/04/2020;01/07/2021;0;True;41.5;2;2
+30;Inessa;China;6 Nobel Plaza;f;23;10/12/2020;17/09/2021;0;False;42.0;9;12
+31;Elianore;Cyprus;929 Valley Edge Junction;f;25;14/12/2020;11/05/2021;0;True;39.0;3;10
+32;Ester;France;27004 Muir Plaza;m;40;06/10/2020;07/06/2021;0;False;42.0;5;10
+33;Kori;Poland;52668 Shelley Road;m;63;27/08/2020;11/06/2021;0;False;42.0;2;11
+34;Margot;Afghanistan;46769 Troy Court;m;70;30/07/2020;20/01/2021;0;False;40.0;3;9
+35;Collete;Poland;3421 Birchwood Crossing;m;42;19/11/2020;13/05/2021;0;False;41.5;4;10
+36;Brnaby;China;18 Lillian Point;m;29;11/06/2020;10/08/2021;0;True;40.0;2;3
+37;Cart;Sweden;542 Darwin Terrace;m;29;15/05/2020;04/07/2021;0;False;39.0;7;2
+38;Donnie;Estonia;04 Summerview Street;f;44;29/10/2020;15/08/2021;0;False;40.5;12;2
+39;Gardie;China;36 Bluejay Center;m;69;03/11/2020;11/09/2021;0;True;40.0;6;4
+40;Merry;China;556 Kenwood Street;m;34;11/09/2020;04/04/2021;0;True;41.5;3;7
+41;Glory;Indonesia;92 Troy Parkway;f;8;05/10/2020;02/09/2021;0;False;39.0;10;2
+42;Shurlock;China;70 Vidon Crossing;f;12;31/08/2020;06/01/2021;0;True;41.0;7;7
+43;Ulises;Poland;568 Burrows Alley;x;15;29/04/2020;20/02/2021;0;True;41.0;11;10
+44;Gaby;Greece;84392 Brown Road;f;25;22/03/2020;03/01/2021;0;True;41.5;12;5
+45;Stanwood;China;5650 Blackbird Junction;f;41;11/06/2020;17/01/2021;0;False;41.0;11;3
+46;Lilah;United States;329 Delladonna Place;m;37;24/06/2020;13/03/2021;0;False;42.0;7;11
+47;Ephraim;Philippines;22643 Waubesa Way;f;46;26/03/2020;10/08/2021;0;False;39.0;8;3
+48;Millie;China;3 Linden Trail;m;33;18/06/2020;02/10/2021;0;False;40.5;7;10
+49;Verla;Canada;90997 Schlimgen Way;m;31;07/06/2020;02/06/2021;0;False;41.5;2;11
+50;Hillary;Poland;6 Jay Road;m;16;13/10/2020;21/08/2021;0;False;41.0;3;11
